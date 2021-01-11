@@ -1,0 +1,1 @@
+./autogen.sh; ./configure CC=/usr/local/Cellar/llvm/11.0.0/bin/clang AR=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar  AR=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar     --disable-dependency-tracking --prefix=/usr/local/ --enable-only64bit --without-mpicc
